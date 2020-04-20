@@ -1,0 +1,18 @@
+ENTIDAD , CONFIDENCIA
+'Internet', 12.92
+'Computadora', 9.651
+'Web scraping', 5.007
+'Bot', 4.137
+'Bot', 4.137
+'Posicionamiento en buscadores', 3.668
+'Posicionamiento en buscadores', 3.668
+'Posicionamiento en buscadores', 3.668
+'Google', 3.573
+'Google', 3.573
+'Automatización industrial', 3.341
+'Tecnología', 1.266
+'Consultor SEO', 0.5
+'Ronaldao', 0.5
+'Consultoría', 0.5
+'Creación de Bots', 0.5
+'Auditoria SEO', 0.5
