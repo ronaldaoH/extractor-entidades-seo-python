@@ -3,7 +3,7 @@ import textrazor
 def takeSecond(elem):
     return elem[1]
 
-textrazor.api_key = "13b27d9d769b8d6e607e267bd9ccc40e71ce2e743f156e39e57ac341"
+textrazor.api_key = "XXXX"
 client = textrazor.TextRazor(extractors=["entities"])
 
 entidades_lista =[] 
